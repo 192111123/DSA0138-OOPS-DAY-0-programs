@@ -11,7 +11,7 @@ DAY  0
 7.constructor ovarloading
 8.constructor
 9.decimal to binary and octal conversion
-10.mond pattern
+10.diamond pattern
 12.elegible to vote or not
 13.factorial
 14.factors
@@ -20,14 +20,14 @@ DAY  0
 17.floyds triangle
 18.half inverted pyramid
 19.half pyramid
-20.lcm ++
+20.lcm in ++
 21.leap year
 22.matrix multiplication
 23.multiplication table
 24.operator overloading
 25.palindrome
-26.ametarized constructor
-27.ameterizedconstructorinbankapplication
+26.parametarized constructor
+27.parameterizedconstructorinbankapplication
 28.pascal's triangle
 29.perfect number
 30.rectangular star pattern
@@ -43,5 +43,5 @@ DAY  0
 40.find even numbers
 41.find odd numbers
 42.print hollow square and fulle square pattern
-43.remove duplicates in an array
+43.to remove duplicates in an array
 44.vowels and constants counters
