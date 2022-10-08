@@ -22,14 +22,14 @@ DAY  0
 19.leap year
 20.rix multiplication
 21.tiplication table
-22.rator overloading
-23.
-23.ametarized constructor
-24.ameterizedconstructorinbankapplication
-25.cal's triangle
-26.fect number
-27.tangular star pattern
-28.e
+22.operator overloading
+23.palindrome
+24.ametarized constructor
+25.ameterizedconstructorinbankapplication
+26.cal's triangle
+27.fect number
+28.tangular star pattern
+29.e
 29.ht pascal star triangle pattern
 30.ht triangle pattern
 31.gle inheritence
