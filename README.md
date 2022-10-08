@@ -19,27 +19,29 @@ DAY  0
 16.finding of all permutations of a string
 17.floyds triangle
 18.half inverted pyramid
-19.leap year
-20.matrix multiplication
-21.multiplication table
-22.operator overloading
-23.palindrome
-24.ametarized constructor
-25.ameterizedconstructorinbankapplication
-26.pascal's triangle
-27.perfect number
-28.tangular star pattern
-29.reversing a word.cpp
-30.right pascal star triangle pattern
-31.right triangle pattern
-32.single inheritence
-33.det marks
-34.of first n natural numbers
-35.pping of 2 numbers using call by reference
-36.calculate area of square,circle,rectangle,triagle
-37.calculate simple intrest of a given number
-38.find even numbers
-39.find odd numbers
-40.print hollow square and fulle square pattern
-41.remove duplicates in an array
-42.vowels and constants counters
+19.half pyramid
+20.lcm ++
+21.leap year
+22.matrix multiplication
+23.multiplication table
+24.operator overloading
+25.palindrome
+26.ametarized constructor
+27.ameterizedconstructorinbankapplication
+28.pascal's triangle
+29.perfect number
+30.rectangular star pattern
+31.reversing a word.cpp
+32.right pascal star triangle pattern
+33.right triangle pattern
+34.single inheritence
+35.studet marks
+36.of first n natural numbers
+37.swapping of 2 numbers using call by reference
+38.calculate area of square,circle,rectangle,triagle
+39.calculate simple intrest of a given number
+40.find even numbers
+41.find odd numbers
+42.print hollow square and fulle square pattern
+43.remove duplicates in an array
+44.vowels and constants counters
