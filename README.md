@@ -13,16 +13,17 @@ DAY  0
 9.decimal to binary and octal conversion
 10.mond pattern
 12.elegible to vote or not
-13.
-14.fibonacci series
-15.finding of all permutations of a string
-16.floyds triangle
-17.half inverted pyramid
-18.leap year
-19.rix multiplication
-20.tiplication table
-21.rator overloading
-22.
+13.factorial
+14.factors
+15.fibonacci series
+16.finding of all permutations of a string
+17.floyds triangle
+18.half inverted pyramid
+19.leap year
+20.rix multiplication
+21.tiplication table
+22.rator overloading
+23.
 23.ametarized constructor
 24.ameterizedconstructorinbankapplication
 25.cal's triangle
