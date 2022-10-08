@@ -20,26 +20,26 @@ DAY  0
 17.floyds triangle
 18.half inverted pyramid
 19.leap year
-20.rix multiplication
-21.tiplication table
+20.matrix multiplication
+21.multiplication table
 22.operator overloading
 23.palindrome
 24.ametarized constructor
 25.ameterizedconstructorinbankapplication
-26.cal's triangle
-27.fect number
+26.pascal's triangle
+27.perfect number
 28.tangular star pattern
-29.e
-29.ht pascal star triangle pattern
-30.ht triangle pattern
-31.gle inheritence
-32.det marks
-33.of first n natural numbers
-34.pping of 2 numbers using call by reference
-35.calculate area of square,circle,rectangle,triagle
-36.calculate simple intrest of a given number
-37.find even numbers
-38.find odd numbers
-39.print hollow square and fulle square pattern
-40.remove duplicates in an array
-41.els and constants counters
+29.reversing a word.cpp
+30.right pascal star triangle pattern
+31.right triangle pattern
+32.single inheritence
+33.det marks
+34.of first n natural numbers
+35.pping of 2 numbers using call by reference
+36.calculate area of square,circle,rectangle,triagle
+37.calculate simple intrest of a given number
+38.find even numbers
+39.find odd numbers
+40.print hollow square and fulle square pattern
+41.remove duplicates in an array
+42.vowels and constants counters
